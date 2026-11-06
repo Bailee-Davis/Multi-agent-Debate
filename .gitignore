@@ -1,4 +1,4 @@
-groq_api_key
+GROQ_API_KEY
 .env
 _pycache_
 debate_runs/*runs.json
